@@ -5,10 +5,40 @@
     padding: 0;
     list-style: none;
 }
-
-header, main {
+header, main{
     padding: 50px;
+} 
+
+/*---------------------- HEADER ----------------------*/
+header{
+    background-color: rgb(50, 115, 246);
 }
+h1 {
+    color: #ccc;
+}
+
+/*---------------------- MAIN ----------------------*/
+main {
+    background-color:whitesmoke
+}
+#img-container {
+    border: 3px solid #ccc;
+    padding: 15px 10px;
+    
+    background: #eee;
+    width: 400px;
+}
+img{
+    width: 100%;
+}
+
+/*---------------------- FOOTER ----------------------*/
+footer{
+    padding: 50px 50px;
+    background-color: rgb(50, 115, 246);
+
+}
+
 
 
 
