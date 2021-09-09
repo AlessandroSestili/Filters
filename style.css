@@ -1,0 +1,14 @@
+/* Header */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header, main {
+    padding: 50px;
+}
+
+
+
